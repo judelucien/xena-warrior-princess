@@ -26,7 +26,7 @@ Season 1 (1995-1996)
 
 |No. overall| No. in season | Title |  Directed by | Written by | Original air date|
 |-----------|---------------|--------|-------------|------------|------------------|
-|1 |1|  "[Sins of the Past](Episodes/Season 1/Sins-Of-The-Past.md)"| Doug Lefler|Story by: Robert Tapert Teleplay by: R.J. Stewart |September 4, 1995
+|1 |1|  [Sins of the Past](https://github.com/judelucien/xena-warrior-princess/blob/master/Episodes/Season%201/01.Sins-Of-The-Past.md)| Doug Lefler|Story by: Robert Tapert Teleplay by: R.J. Stewart |September 4, 1995
 |2|2|"Chariots of War" |Harley Cokeliss| Story by: Josh Becker & Jack Perez Teleplay by: Adam Armus & Nora Kay Foster |September 11, 1995
 |3|3|"Dreamworker"|Bruce Seth Green|Steven L. Sears|September 18, 1995
 |4|4|"Cradle of Hope"|Michael Levine|Terence Winter|September 25, 1995
