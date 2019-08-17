@@ -4,9 +4,13 @@ Hail, fellow Xenite!!
 
 Welcome to this growing collection of Xena: Warrior Princess-related information! Please read on to learn more about the power of what we can achieve together through collaboration!
 
+### UPDATE 2019-08-17
+
+Our first major contribution from Jay Tuma: The Queen has allowed us to upload the [Xena: Warrior Princess Master Fan Fiction list](https://github.com/judelucien/xena-warrior-princess/blob/master/Fanfic/Master-Fanfic-List.md)!! We have liftoff!! :rocket: :rocket: :rocket:
+
 ## What Is This Repository For?
 
-What can we achieve? We can create the largest repository of Xena-related information on the web. There are a lot of websites and a lot of information about Xena: Warrior Princess online but no one central place. What kind of information?  Well, websites (links), episode guides, commentaries, academic papers, characters, information about the Xenaverse, conventions, fan-gatherings, fan art, fan-fiction, podcast info, show glossary, quotes, practically anything you can think of!
+What can we achieve? We can create the largest repository of Xena-related information on the web. There are a lot of websites and a lot of information about Xena: Warrior Princess online but no one central place. What kind of information?  Well, websites (links), episode guides, commentaries, academic papers, characters, information about the Xenaverse, conventions, fan-gatherings, fan art, [fan-fiction](https://github.com/judelucien/xena-warrior-princess/blob/master/Fanfic/Master-Fanfic-List.md), podcast info, show glossary, quotes, practically anything you can think of!
 
 ## About This Repository
 
@@ -24,7 +28,6 @@ git clone https://github.com/judelucien/xena-warrior-princess.git
 
 ## Content & Contribution
 
-This repository is not about plagiarism. This repository is about sharing and preservation. If you would like to contribute to the site, please see the [contributing document](CONTRIBUTING.md). 
+This repository is not about plagiarism. This repository is about sharing and preservation. If you would like to contribute to the site, please see the [contributing document](CONTRIBUTING.md).
 
 This repository is licensed under the [Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/) license, which means that all work committed to the repository is in the public domain, may be shared, remixed, but not commercially profitted from if you are not the creator.  If you have any license concerns, please open an issue.
-
